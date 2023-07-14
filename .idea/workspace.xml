@@ -4,36 +4,151 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3c4435b-090a-4ed4-99d2-6760f92dbadd" name="Changes" comment="" />
+    <list default="true" id="f74180ee-5600-44e6-a481-72e051ca46e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pom/AdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pom/AdminPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pom/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pom/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baseTest/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseTest/BaseTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/loginLogoutTest/LoginLogoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/loginLogoutTest/LoginLogoutTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2SUBVO1oUt57ZlpDgP9GHe7Xblp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SWqknYVI7SeEJcLJf3V3M4VvbI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Tasks/blackStoneTask",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.LoginLogoutTest.testLoginLogoutFullScenario">
+    <configuration name="LoginLogoutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="blackStoneTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginLogoutTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loginLogoutTest" />
+      <option name="MAIN_CLASS_NAME" value="loginLogoutTest.LoginLogoutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginLogoutTest.testLoginLogoutFullScenario (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="blackStoneTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginLogoutTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loginLogoutTest" />
+      <option name="MAIN_CLASS_NAME" value="loginLogoutTest.LoginLogoutTest" />
+      <option name="METHOD_NAME" value="testLoginLogoutFullScenario" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginLogoutTest.testLoginLogoutFullScenario" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="blackStoneTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginLogoutTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loginLogoutTest" />
+      <option name="MAIN_CLASS_NAME" value="loginLogoutTest.LoginLogoutTest" />
+      <option name="METHOD_NAME" value="testLoginLogoutFullScenario" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginLogoutTest.testLoginLogoutFullScenario" />
+        <item itemvalue="TestNG.LoginLogoutTest" />
+        <item itemvalue="TestNG.LoginLogoutTest.testLoginLogoutFullScenario (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a3c4435b-090a-4ed4-99d2-6760f92dbadd" name="Changes" comment="" />
-      <created>1689191305201</created>
+      <changelist id="f74180ee-5600-44e6-a481-72e051ca46e6" name="Changes" comment="" />
+      <created>1689272831266</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1689191305201</updated>
+      <updated>1689272831266</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pom/AdminPage.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pom/LoginPage.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
